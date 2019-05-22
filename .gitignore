@@ -58,7 +58,5 @@ typings/
 .env
 
 _book
-.DS_Store
-.idea
 # next.js build output
 .next
