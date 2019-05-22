@@ -1,4 +1,13 @@
+class FastCache{
+    constructor() {
+        this.list = {}
+    }
+    set(key,value) {
+        this.list[key] = value
+    }
+    get(key) {
+        return this.list[key]
+    }
+}
 
-
-
-alert('cache111');
+window.FastCache = FastCache
