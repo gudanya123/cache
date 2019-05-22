@@ -1,6 +1,6 @@
 {
-  "name": "cache",
-  "version": "0.0.1",
+  "name": "cache111",
+  "version": "0.0.2",
   "description": "短小精悍的前端缓存工具,防止内存\"侧漏\"",
   "main": "src/index.js",
   "scripts": {
@@ -33,6 +33,7 @@
   "dependencies": {
     "gitbook": "^2.6.9",
     "gitbook-cli": "^2.3.2",
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.1",
+    "user": "0.0.0"
   }
 }

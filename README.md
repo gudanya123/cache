@@ -8,7 +8,9 @@
 
 ## 安装下载
 
-
+- 下载地址 https://github.com/gudanya123/cache111/releases
+- `npm i cache111`
+- CDN http://unpkg.com/cache111/release/bundle.js
 ## 快速使用
 
 简单接入的文档
